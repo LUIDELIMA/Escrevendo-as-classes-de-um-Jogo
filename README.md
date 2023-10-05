@@ -1,7 +1,7 @@
 
 # 3️⃣ Escrevendo as classes de um Jogo
 
-<img align=left margin=100 width=800 src="imag/zelda30th-links-gfnp_5hsq.1200.webp"/>
+<img align=left margin=100 width=800 src="assets/imag/zelda30th-links-gfnp_5hsq.1200.webp"/>
     
 
 **O Que deve ser utilizado** 
@@ -42,7 +42,7 @@ além disso, deve ter um método chamado atacar que deve atender os seguientes r
 
 <h2 id="Aluno">💻 Aluno</h2>
 <p>
-    <img align=left margin=10 width=80 src="imag/LUIDE LIMA.jpeg"/>
+    <img align=left margin=10 width=80 src="assets/imag/LUIDE LIMA.jpeg"/>
     <p>&nbsp&nbsp&nbspLuide Lima<br>
     <br/><br/>
     &nbsp&nbsp&nbsp<a href="http://instagram.com/programi_">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/micheleambrosio">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/michele-ambrosio-a4899661/">LinkedIn</a>&nbsp;|&nbsp;<a href="https://www.twitch.tv/michele_ambrosio">Twitch</a></p>
